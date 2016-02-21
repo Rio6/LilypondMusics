@@ -60,6 +60,7 @@ aess = \transpose f aes \fs
                 gis8~ gis16 ais b gis dis' gis, dis' e cis dis cis b ais8 |
                 f4 g aes c8 bes
                 f''8 c ees bes c16 aes bes g aes8 f8
+                \bar "|."
         }
 }
 \new Staff {
