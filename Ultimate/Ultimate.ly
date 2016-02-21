@@ -7,6 +7,8 @@
     tagline = \copyright
 }
 
+speed=\markup {\bold \large Allegro }
+
 fism = \absolute {fis,8 cis fis cis a cis fis cis}
 em = \absolute {e,8 b, e b, gis b, e b,}
 dm = \transpose e d \em
@@ -16,9 +18,10 @@ cism = \absolute {cis,8 gis, cis gis, f! gis, cis gis,}
     \new Staff {
         \key fis \minor
         \clef "treble"
+        \tempo 4=120
         \relative {
             \clef "treble_8"
-            fis8 fis a cis d4 cis |
+            fis8^\speed fis a cis d4 cis |
             r8 fis, a cis d4 cis |
             r8 fis, a cis d4 cis |
             cis4~ cis8 b16 a gis2 |
