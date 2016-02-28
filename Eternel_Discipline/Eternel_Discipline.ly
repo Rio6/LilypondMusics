@@ -29,7 +29,7 @@ aess = \transpose f aes \fs
         \tempo 8 = 160
         \relative f''' {
             f16^\speed c ees bes c aes bes f f c ees bes c aes bes f |
-                g'' c, ees bes c aes bes f f c ees bes c aes bes f |
+                f'' c ees bes c aes bes f f c ees bes c aes bes f |
                 ees'' bes des aes bes ges aes ees ees bes des aes bes ges aes ees |
                 ees'' bes des aes bes ges aes ees ees bes des aes bes ges aes ees |
                 <f'' f,>8. <g g,>8 <g g,> <g g,>16 <f f,>2
@@ -45,18 +45,18 @@ aess = \transpose f aes \fs
                 aes2:32 bes4.:32 ees,8 |
                 c'8 des16 bes8 c bes aes g16 aes8 f16 g |
                 aes2:32 bes8 aes16 g8 f8 f16~ |
-                f8 c' ees f16 ges8 aes16 bes8 c f,,16 g |
+                f8 c' ees f ges aes16 bes16 c8 f,,16 g |
                 aes2:32 bes4.:32 ees,8 |
                 c'8 des16 bes8 c bes a a16 bes8 c
                 aes8~ aes16 f8~ f16 des8 bes'8~ bes16 g8~ g16 ees8 |
                 g8~ g16 bes8~ bes16 g8 a4~ a8 f16 g |
                 aes8~ aes16 f8~ f16 des8 bes'~ bes16 g8~ g16 bes8 |
                 a1 |
-                <f f'>8~ <f f'>16 g aes f c'8 c16 des bes c bes aes g8 |
+                f8~ f16 g aes f c'8 c16 des bes c bes aes g8 |
                 f8~ f16 g aes f c' f, c' des bes c bes aes g8 |
-                <f f'>8~ <f f'>16 g aes f c'8 c16 des bes c bes aes g8 |
+                f8~ f16 g aes f c'8 c16 des bes c bes aes g8 |
                 f8 f' ees16 des c des c bes c bes aes8 g
-                <gis gis'>8~ <gis gis'>16 ais b gis dis'8 dis16 e cis dis cis b ais8
+                gis8~ gis16 ais b gis dis'8 dis16 e cis dis cis b ais8
                 gis8~ gis16 ais b gis dis' gis, dis' e cis dis cis b ais8 |
                 f4 g aes c8 bes
                 f''8 c ees bes c16 aes bes g aes8 f8
