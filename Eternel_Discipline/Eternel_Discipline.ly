@@ -91,14 +91,14 @@ aess = \transpose f aes \fs
                 \fj f,16 c' f c a'4
                 <des, des,>2 <ees ees,> |
                 <f f,>1 |
-                <f f,>1 |
-                <f f,>1 |
-                <f f,>1 |
-                <f f,>1 |
-                <g g,>1 |
-                <g g,>1 |
+                <f c f,>1 |
+                <f c f,>1 |
+                <f c f,>1 |
+                <f c f,>1 |
+                <gis dis gis,>1 |
+                <gis dis gis,>1 |
                 \fs \fs |
-                f16 c f c f c f c f c f c f8
+                f16 c f c f c f c f c f c f4
         }
 }
 >>
